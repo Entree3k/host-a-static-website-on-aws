@@ -1,5 +1,7 @@
 # host-a-static-website-on-aws
 
+![Host_a_Static_Website_on_AWS](https://github.com/user-attachments/assets/238cadbf-ccd6-4318-ae4c-0be6d062c775)
+
 Host a Static Website on AWS
 I recently finished a DevOps project where I hosted a static html web app on AWS, utilizing the resources
 listed below. I have uploaded the reference diagram and scripts I used to deploy the web app on an EC2
